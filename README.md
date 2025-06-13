@@ -12,9 +12,9 @@ Power Query
 •	United States dominated profits ($94K), while Nigeria incurred worst losses (-$23K)  
 # Key Insights
 **Top Performers**
--Top Country: United States with $94K profit 
--Best Product: Canon ImageCLASS 2200 Copier with $15.7K profit
--Star Customer: Raymond Buch with $7.4K profit
+•	Top Country: United States with $94K profit 
+•	Best Product: Canon ImageCLASS 2200 Copier with $15.7K profit
+•	Star Customer: Raymond Buch with $7.4K profit
 
 **Critical Challenges**
 | Issue                  |              Impact                              | Example Cases         |
@@ -24,9 +24,10 @@ Power Query
 | **Regional Losses**    | Nigeria (-$23K), Zimbabwe (-$2.2K)     | -1.51 profit margin  |
 
  **Trends**
--November: Sales peak (+27% vs average)  
--August: Highest shipping costs (+32%)  
--Copiers: 9x pricier to ship than tables  
+•	November: Sales peak (+27% vs average)  
+•	August: Highest shipping costs (+32%)  
+•	Copiers: 9x pricier to ship than tables  
+ 
 
 # Dashboard
 ![Image](https://github.com/user-attachments/assets/12b893c0-4f30-417a-b367-b94071c0b74e)
