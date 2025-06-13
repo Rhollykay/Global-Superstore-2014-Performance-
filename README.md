@@ -29,6 +29,11 @@ August: Highest shipping costs (+32%)
 Copiers: 9x pricier to ship than tables  
 
 # Dashboard
+![Image](https://github.com/user-attachments/assets/12b893c0-4f30-417a-b367-b94071c0b74e)
+![Image](https://github.com/user-attachments/assets/953f76b7-97f4-47bc-9325-129b07e40d3d)
+![Image](https://github.com/user-attachments/assets/d2519743-defa-4e46-8199-ea59453e7f88)
+![Image](https://github.com/user-attachments/assets/90207f53-4928-43ed-be6e-e7e5875bf194)
+
 
 # Data Source
 Digitaley Drive
