@@ -8,15 +8,15 @@ DAX formulas, and
 Power Query 
 # Key Highlights:
 
-•	$504K total profit from $4M sales  
-•	17 regions analysed, spanning 38 African countries 
-•	United States dominated profits ($94K), while Nigeria incurred worst losses (-$23K)  
+- $504K total profit from $4M sales
+- 17 regions analysed, spanning 38 African countries
+- United States dominated profits ($94K), while Nigeria incurred worst losses (-$23K)  
 # Key Insights
 **Top Performers**:
 
-•	Top Country: United States with $94K profit 
-•	Best Product: Canon ImageCLASS 2200 Copier with $15.7K profit
-•	Star Customer: Raymond Buch with $7.4K profit
+- Top Country: United States with $94K profit
+- Best Product: Canon ImageCLASS 2200 Copier with $15.7K profit
+- Star Customer: Raymond Buch with $7.4K profit
 
 **Critical Challenges**
 | Issue                  |              Impact                              | Example Cases         |
@@ -27,9 +27,9 @@ Power Query
 
  **Trends**:
  
-•	November: Sales peak (+27% vs average)  
-•	August: Highest shipping costs (+32%)  
-•	Copiers: 9x pricier to ship than tables  
+- November: Sales peak (+27% vs average)
+- August: Highest shipping costs (+32%)
+- Copiers: 9x pricier to ship than tables  
  
 
 # Dashboard
@@ -37,6 +37,8 @@ Power Query
 ![Image](https://github.com/user-attachments/assets/953f76b7-97f4-47bc-9325-129b07e40d3d)
 ![Image](https://github.com/user-attachments/assets/d2519743-defa-4e46-8199-ea59453e7f88)
 ![Image](https://github.com/user-attachments/assets/90207f53-4928-43ed-be6e-e7e5875bf194)
+# Dashboard Link 
+https://app.powerbi.com/groups/me/reports/2ef4be42-3c5f-4277-a04e-ce8b10253df2/91a8cc10c0d573be198c?experience=power-bi
 
 
 # Data Source
