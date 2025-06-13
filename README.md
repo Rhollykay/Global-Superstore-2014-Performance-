@@ -6,12 +6,12 @@ A Power BI analytics solution uncovering key trends and inefficiencies in Global
 Power BI
 DAX formulas 
 Power Query 
-# Key Highlights
+# Key Highlights:
 •	$504K total profit from $4M sales  
 •	17 regions analysed, spanning 38 African countries 
 •	United States dominated profits ($94K), while Nigeria incurred worst losses (-$23K)  
 # Key Insights
-**Top Performers**
+**Top Performers**:
 •	Top Country: United States with $94K profit 
 •	Best Product: Canon ImageCLASS 2200 Copier with $15.7K profit
 •	Star Customer: Raymond Buch with $7.4K profit
@@ -23,7 +23,7 @@ Power Query
 | **Discount Overuse**   | 60+ discounts → -$5K profit (Philadelphia) | Chicago, Houston  |
 | **Regional Losses**    | Nigeria (-$23K), Zimbabwe (-$2.2K)     | -1.51 profit margin  |
 
- **Trends**
+ **Trends**:
 •	November: Sales peak (+27% vs average)  
 •	August: Highest shipping costs (+32%)  
 •	Copiers: 9x pricier to ship than tables  
